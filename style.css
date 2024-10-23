@@ -71,6 +71,7 @@ body{
 .right{
     width:34%;
     height:400px;
+    max-width:600px;
 }
 
 .left{
